@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="com.kingdee.bos.sql.shell.common.AbstractKSQLResultSet" />
+        <option value="java.sql.ResultSet" />
+        <option value="java.sql.Connection" />
+      </list>
+    </option>
+  </component>
+</application>
