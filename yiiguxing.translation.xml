@@ -1,13 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple Date Format" />
+      <item value="String" />
+      <item value="Object" />
+      <item value="Hash Map" />
+      <item value="List" />
       <item value="scheduling" />
       <item value="sms Vip Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
