@@ -441,12 +441,20 @@
           <Count>40</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Quick Documentation">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'Ctrl+Q'</ShortCut>
+          <Description>Quick Documentation</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Quick Evaluate Expression">
         <Item>
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>292</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
