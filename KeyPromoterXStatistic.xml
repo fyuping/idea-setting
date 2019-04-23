@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App'">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2527</Count>
+          <Count>2587</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -302,7 +302,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>301</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -414,7 +414,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>267</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -454,7 +454,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>321</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -542,7 +542,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'CostServiceTest.batchCacl (2)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CostServiceTest.batchCacl (3)'">
@@ -622,7 +622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>782</Count>
+          <Count>786</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -638,7 +638,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CostServiceTest (1)'">
@@ -734,7 +734,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'batchCacl()'</Description>
-          <Count>12</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '成本计算批量单元测试'">
@@ -742,7 +742,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '成本计算批量单元测试'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Service">
@@ -958,7 +958,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>382</Count>
+          <Count>383</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
