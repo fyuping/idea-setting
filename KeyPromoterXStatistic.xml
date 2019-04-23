@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2587</Count>
+          <Count>2590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -654,7 +654,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'CostServiceTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CostServiceTest.batchCacl (1)'">
@@ -734,7 +734,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'batchCacl()'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '成本计算批量单元测试'">
@@ -974,7 +974,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
