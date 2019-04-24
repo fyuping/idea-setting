@@ -14,7 +14,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Row">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2633</Count>
+          <Count>2637</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -310,7 +310,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>311</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -622,7 +622,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -750,7 +750,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run '成本计算批量单元测试'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Service">
