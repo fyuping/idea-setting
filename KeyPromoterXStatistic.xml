@@ -462,7 +462,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>374</Count>
+          <Count>377</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -630,7 +630,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>808</Count>
+          <Count>809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
