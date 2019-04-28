@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2728</Count>
+          <Count>2734</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +422,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>281</Count>
+          <Count>282</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -446,7 +446,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -910,7 +910,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SmsScmApp'</Description>
-          <Count>498</Count>
+          <Count>503</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsScmstApp'">
