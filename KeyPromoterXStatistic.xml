@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2808</Count>
+          <Count>2809</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -470,7 +470,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>383</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...e 'youshang-scm-api'">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>424</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
