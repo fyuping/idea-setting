@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2931</Count>
+          <Count>2942</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -479,6 +479,14 @@
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Rebuild ...e 'youshang-scm-api'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...le 'jdy-scm-service'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Rebuild ...le 'jdy-scm-service'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...youshang-scm-webapp'">
