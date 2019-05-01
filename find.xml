@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'F:\project\jdy-scm-app\jdy-scm-service\src\main\java\com\kingdee\youshang\bs\report\SalesReportService.java [jdy-scm-service]'" />
-    <option name="defaultScopeName" value="File 'F:\project\jdy-scm-app\jdy-scm-service\src\main\java\com\kingdee\youshang\bs\report\SalesReportService.java [jdy-scm-service]'" />
+    <option name="customScope" value="File 'F:\project\jdy-scm-app\jdy-scm-service\src\main\java\com\kingdee\youshang\bs\assist\AssistService.java [jdy-scm-service]'" />
+    <option name="defaultScopeName" value="File 'F:\project\jdy-scm-app\jdy-scm-service\src\main\java\com\kingdee\youshang\bs\assist\AssistService.java [jdy-scm-service]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'F:\project\jdy-scm-app\jdy-scm-service\src\main\java\com\kingdee\youshang\bs\report\SalesReportService.java [jdy-scm-service]'" />
+    <option name="SEARCH_SCOPE" value="File 'F:\project\jdy-scm-app\jdy-scm-service\src\main\java\com\kingdee\youshang\bs\assist\AssistService.java [jdy-scm-service]'" />
     <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
