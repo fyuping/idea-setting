@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3029</Count>
+          <Count>3033</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -326,7 +326,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>330</Count>
+          <Count>331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
