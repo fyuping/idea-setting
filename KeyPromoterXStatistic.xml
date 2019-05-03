@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'App'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ScmApp'</Description>
-          <Count>5</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SmsScmApp'">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3045</Count>
+          <Count>3092</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -313,6 +313,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find...">
+        <Item>
+          <IdeaActionID>DBNavigator.Actions.SessionBrowser.Find</IdeaActionID>
+          <ShortCut>'Ctrl+F'</ShortCut>
+          <Description>Find...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Force Run to Cursor">
         <Item>
           <IdeaActionID>ForceRunToCursor</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>331</Count>
+          <Count>335</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -350,7 +358,7 @@
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Hierarchy</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -454,7 +462,7 @@
           <IdeaActionID>OptimizeImports</IdeaActionID>
           <ShortCut>'Ctrl+Alt+O'</ShortCut>
           <Description>Optimize Imports</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -462,7 +470,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>302</Count>
+          <Count>305</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -486,7 +494,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Documentation">
@@ -502,7 +510,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>400</Count>
+          <Count>404</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...e 'youshang-scm-api'">
@@ -734,7 +742,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>845</Count>
+          <Count>852</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -742,7 +750,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -990,7 +998,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ScmApp'</Description>
-          <Count>8</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SmsScmApp'">
@@ -1110,7 +1118,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>444</Count>
+          <Count>455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -1126,7 +1134,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
